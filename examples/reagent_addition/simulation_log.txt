@@ -1,0 +1,197 @@
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into A1 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from B1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into B1 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from C1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into C1 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from D1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into D1 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from E1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into E1 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from F1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into F1 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from G1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into G1 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from H1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into H1 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from A2 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from B2 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into B2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from C2 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into C2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from D2 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into D2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from E2 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into E2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from F2 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into F2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from G2 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into G2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from H2 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into H2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from A3 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from B3 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into B3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from C3 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into C3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from D3 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into D3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from E3 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into E3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from F3 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into F3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from G3 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into G3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from H3 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into H3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from A4 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from B4 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into B4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from C4 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into C4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from D4 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into D4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from E4 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into E4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from F4 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into F4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from G4 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into G4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from H4 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into H4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from A5 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from B5 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into B5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from C5 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into C5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from D5 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into D5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from E5 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into E5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from F5 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into F5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from G5 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into G5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from H5 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into H5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from A6 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from B6 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into B6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from C6 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into C6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from D6 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into D6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from E6 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into E6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from F6 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into F6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from G6 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into G6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from H6 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on slot 4 at 92.86 uL/sec
+Dispensing 50.0 uL into H6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+
+--- STDERR ---
+C:\Users\cmchu\.opentrons\robot_settings.json not found. Loading defaults
+Deck calibration not found.
+C:\Users\cmchu\.opentrons\deck_calibration.json not found. Loading defaults

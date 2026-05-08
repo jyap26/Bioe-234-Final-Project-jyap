@@ -1,0 +1,139 @@
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A2 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A3 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A4 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A5 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A6 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A7 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A8 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A9 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A10 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 180.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 to A11 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 180.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 3 at 92.86 uL/sec
+	Dispensing 180.0 uL into A11 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+Picking up tip from B1 of Opentrons OT-2 96 Tip Rack 300 킠 on slot 1
+Transferring 20.0 from A1 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A2 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A1 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 20.0 from A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A3 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A2 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 20.0 from A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A4 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A3 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 20.0 from A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A5 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A4 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 20.0 from A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A6 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A5 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 20.0 from A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A7 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A6 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 20.0 from A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A8 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A7 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 20.0 from A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A9 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A8 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 20.0 from A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A10 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A9 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Transferring 20.0 from A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 to A11 of NEST 96 Well Plate 200 킠 Flat on slot 2
+	Aspirating 20.0 uL from A10 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A11 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A11 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A11 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A11 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A11 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Aspirating 20.0 uL from A11 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+	Dispensing 20.0 uL into A11 of NEST 96 Well Plate 200 킠 Flat on slot 2 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on slot 12
+
+--- STDERR ---
+C:\Users\cmchu\.opentrons\robot_settings.json not found. Loading defaults
+Deck calibration not found.
+C:\Users\cmchu\.opentrons\deck_calibration.json not found. Loading defaults

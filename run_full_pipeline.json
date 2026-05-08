@@ -1,0 +1,39 @@
+{
+  "id": "run_full_pipeline",
+  "name": "run_full_pipeline",
+  "mcp_name": "opentrons",
+  "description": "End-to-end OT-2 pipeline: generate a protocol script from a natural-language task description, simulate it, analyze it for optimization opportunities, and produce all visualisation outputs (PDF, HTML, GIF, stats PNG). Returns a combined JSON summary of all four stages.",
+  "inputs": [
+    {
+      "name": "task_type",
+      "type": "string",
+      "description": "Protocol category. Must be one of: serial_dilution, pcr_setup, rt_normalization.",
+      "required": true
+    },
+    {
+      "name": "parameters_json",
+      "type": "string",
+      "description": "JSON string of task-specific parameters. See SKILL.md for per-task schemas.",
+      "required": true
+    }
+  ],
+  "outputs": [
+    {
+      "name": "result",
+      "type": "string",
+      "description": "JSON string with run_id, status, and a 'stages' object containing generate/simulate/analyze/visualize sub-results."
+    }
+  ],
+  "examples": [
+    {
+      "input": {
+        "task_type": "serial_dilution",
+        "parameters_json": "{\"num_dilutions\": 8, \"dilution_factor\": 2, \"initial_volume\": 100}"
+      },
+      "output": "{\"run_id\": \"run_1700000000\", \"status\": \"complete\", \"stages\": {\"generate\": {\"script_lines\": 65}, \"simulate\": {\"step_count\": 128, \"success\": true}, \"analyze\": {\"recommendations\": []}, \"visualize\": {\"outputs\": {\"pdf\": \"...\", \"html\": \"...\"}}}}"
+    }
+  ],
+  "execution_details": {
+    "seq_params": []
+  }
+}
