@@ -4,7 +4,7 @@
 
 ## Role
 
-Joshua built the **integration layer** — the FastMCP server, the Gemini client, the full-pipeline orchestrator tool, and the Streamlit web application that ties all four components together into a single end-to-end system.
+I built the **integration layer** — the FastMCP server, the Gemini client, the full-pipeline orchestrator tool, and the Streamlit web application that ties all four components together into a single end-to-end system.
 
 ---
 
@@ -30,7 +30,7 @@ User (browser) → app.py (Streamlit)
          ~/Downloads/OT2_outputs/
 ```
 
-Joshua's layer is what makes the project usable as a product — without it, the four components would be independent scripts with no user interface.
+My layer is what makes the project usable as a product — without it, the four components would be independent scripts with no user interface.
 
 ---
 
